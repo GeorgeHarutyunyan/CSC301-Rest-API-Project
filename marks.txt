@@ -25,4 +25,4 @@ GET /api/v1/computeBaconPath tests (out of 5 marks)
 Score: 5/5
 
 
-Total: 15/34
+Total: 34/34
